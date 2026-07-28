@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-  <span style="color: #FFD700;">Hi, I'm </span>
-  <span style="color: #FF8C00;">DwJ718</span>
+  <font color="#FFD700">Hi, I'm </font>
+  <font color="#FF8C00">DwJ718</font>
 </h1>
 
 <p align="center">
