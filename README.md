@@ -11,6 +11,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">
+  <span style="color: #FFD700; display: inline-block;">
+    <span style="display: inline-block; animation: bounce 0.6s ease infinite alternate;">H</span>
+    <span style="display: inline-block; animation: bounce 0.6s ease 0.1s infinite alternate;">i</span>
+    <span style="display: inline-block; animation: bounce 0.6s ease 0.2s infinite alternate;">,</span>
+    <span style="display: inline-block; animation: bounce 0.6s ease 0.3s infinite alternate;">&nbsp;</span>
+    <span style="display: inline-block; animation: bounce 0.6s ease 0.4s infinite alternate;">I</span>
+    <span style="display: inline-block; animation: bounce 0.6s ease 0.5s infinite alternate;">'</span>
+    <span style="display: inline-block; animation: bounce 0.6s ease 0.6s infinite alternate;">m</span>
+    <span style="display: inline-block; animation: bounce 0.6s ease 0.7s infinite alternate;">&nbsp;</span>
+    <span style="display: inline-block; animation: bounce 0.6s ease 0.8s infinite alternate; color: #FF8C00;">D</span>
+    <span style="display: inline-block; animation: bounce 0.6s ease 0.9s infinite alternate; color: #FF8C00;">w</span>
+    <span style="display: inline-block; animation: bounce 0.6s ease 1.0s infinite alternate; color: #FF8C00;">J</span>
+    <span style="display: inline-block; animation: bounce 0.6s ease 1.1s infinite alternate; color: #FF8C00;">7</span>
+    <span style="display: inline-block; animation: bounce 0.6s ease 1.2s infinite alternate; color: #FF8C00;">1</span>
+    <span style="display: inline-block; animation: bounce 0.6s ease 1.3s infinite alternate; color: #FF8C00;">8</span>
+  </span>
+</h1>
+
+<style>
+  @keyframes bounce {
+    0% { transform: translateY(0px); }
+    100% { transform: translateY(-10px); }
+  }
+</style>
 <h1 align="center">👋 Hi, I'm DwJ718</h1>
 
 <p align="center">
@@ -19,15 +44,4 @@ Here are some ideas to get you started:
   🌍 Grateful to live in an open-source world
 </p>
 
-<blockquote>
-  “The mission of learning is to gain an understanding of various designs.”<br>
-  “Attempt to achieve any sustainable behavior through automated means.”
-</blockquote>
 
-<p align="center">
-  <a href="你的博客链接">Blog</a> ·
-  <a href="你的Leetcode链接">Leetcode</a> ·
-  <a href="你的小红书链接">Rednote</a> ·
-  <a href="你的B站链接">Bilibili</a> ·
-  <strong>Views 1500K+</strong>
-</p>
