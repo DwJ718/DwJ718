@@ -11,32 +11,68 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">
-  <span style="color: #FFD700; display: inline-block;">
-    <span style="display: inline-block; animation: bounce 0.6s ease infinite alternate;">H</span>
-    <span style="display: inline-block; animation: bounce 0.6s ease 0.1s infinite alternate;">i</span>
-    <span style="display: inline-block; animation: bounce 0.6s ease 0.2s infinite alternate;">,</span>
-    <span style="display: inline-block; animation: bounce 0.6s ease 0.3s infinite alternate;">&nbsp;</span>
-    <span style="display: inline-block; animation: bounce 0.6s ease 0.4s infinite alternate;">I</span>
-    <span style="display: inline-block; animation: bounce 0.6s ease 0.5s infinite alternate;">'</span>
-    <span style="display: inline-block; animation: bounce 0.6s ease 0.6s infinite alternate;">m</span>
-    <span style="display: inline-block; animation: bounce 0.6s ease 0.7s infinite alternate;">&nbsp;</span>
-    <span style="display: inline-block; animation: bounce 0.6s ease 0.8s infinite alternate; color: #FF8C00;">D</span>
-    <span style="display: inline-block; animation: bounce 0.6s ease 0.9s infinite alternate; color: #FF8C00;">w</span>
-    <span style="display: inline-block; animation: bounce 0.6s ease 1.0s infinite alternate; color: #FF8C00;">J</span>
-    <span style="display: inline-block; animation: bounce 0.6s ease 1.1s infinite alternate; color: #FF8C00;">7</span>
-    <span style="display: inline-block; animation: bounce 0.6s ease 1.2s infinite alternate; color: #FF8C00;">1</span>
-    <span style="display: inline-block; animation: bounce 0.6s ease 1.3s infinite alternate; color: #FF8C00;">8</span>
-  </span>
-</h1>
-
-<style>
-  @keyframes bounce {
-    0% { transform: translateY(0px); }
-    100% { transform: translateY(-10px); }
-  }
-</style>
-<h1 align="center">👋 Hi, I'm DwJ718</h1>
+<p align="center">
+  <svg width="400" height="80" xmlns="http://www.w3.org/2000/svg">
+    <!-- 每个字母一组 -->
+    <text x="0" y="50" font-size="40" font-weight="bold" fill="#FFD700" font-family="sans-serif">
+      H
+      <animate attributeName="y" values="50;40;50" dur="0.6s" begin="0s" repeatCount="indefinite" />
+    </text>
+    <text x="25" y="50" font-size="40" font-weight="bold" fill="#FFD700" font-family="sans-serif">
+      i
+      <animate attributeName="y" values="50;40;50" dur="0.6s" begin="0.1s" repeatCount="indefinite" />
+    </text>
+    <text x="40" y="50" font-size="40" font-weight="bold" fill="#FFD700" font-family="sans-serif">
+      ,
+      <animate attributeName="y" values="50;40;50" dur="0.6s" begin="0.2s" repeatCount="indefinite" />
+    </text>
+    <text x="55" y="50" font-size="40" font-weight="bold" fill="#FFD700" font-family="sans-serif">
+      &nbsp;
+      <animate attributeName="y" values="50;40;50" dur="0.6s" begin="0.3s" repeatCount="indefinite" />
+    </text>
+    <text x="70" y="50" font-size="40" font-weight="bold" fill="#FFD700" font-family="sans-serif">
+      I
+      <animate attributeName="y" values="50;40;50" dur="0.6s" begin="0.4s" repeatCount="indefinite" />
+    </text>
+    <text x="85" y="50" font-size="40" font-weight="bold" fill="#FFD700" font-family="sans-serif">
+      '
+      <animate attributeName="y" values="50;40;50" dur="0.6s" begin="0.5s" repeatCount="indefinite" />
+    </text>
+    <text x="97" y="50" font-size="40" font-weight="bold" fill="#FFD700" font-family="sans-serif">
+      m
+      <animate attributeName="y" values="50;40;50" dur="0.6s" begin="0.6s" repeatCount="indefinite" />
+    </text>
+    <text x="120" y="50" font-size="40" font-weight="bold" fill="#FFD700" font-family="sans-serif">
+      &nbsp;
+      <animate attributeName="y" values="50;40;50" dur="0.6s" begin="0.7s" repeatCount="indefinite" />
+    </text>
+    <!-- DwJ718 部分，用橙金色 -->
+    <text x="135" y="50" font-size="40" font-weight="bold" fill="#FF8C00" font-family="sans-serif">
+      D
+      <animate attributeName="y" values="50;40;50" dur="0.6s" begin="0.8s" repeatCount="indefinite" />
+    </text>
+    <text x="160" y="50" font-size="40" font-weight="bold" fill="#FF8C00" font-family="sans-serif">
+      w
+      <animate attributeName="y" values="50;40;50" dur="0.6s" begin="0.9s" repeatCount="indefinite" />
+    </text>
+    <text x="185" y="50" font-size="40" font-weight="bold" fill="#FF8C00" font-family="sans-serif">
+      J
+      <animate attributeName="y" values="50;40;50" dur="0.6s" begin="1.0s" repeatCount="indefinite" />
+    </text>
+    <text x="210" y="50" font-size="40" font-weight="bold" fill="#FF8C00" font-family="sans-serif">
+      7
+      <animate attributeName="y" values="50;40;50" dur="0.6s" begin="1.1s" repeatCount="indefinite" />
+    </text>
+    <text x="235" y="50" font-size="40" font-weight="bold" fill="#FF8C00" font-family="sans-serif">
+      1
+      <animate attributeName="y" values="50;40;50" dur="0.6s" begin="1.2s" repeatCount="indefinite" />
+    </text>
+    <text x="260" y="50" font-size="40" font-weight="bold" fill="#FF8C00" font-family="sans-serif">
+      8
+      <animate attributeName="y" values="50;40;50" dur="0.6s" begin="1.3s" repeatCount="indefinite" />
+    </text>
+  </svg>
+</p>
 
 <p align="center">
   🎂 Born 2005-10-07 · Third-year CS undergraduate<br>
