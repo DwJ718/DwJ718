@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-  <font color="#FFD700">Hi, I'm </font>
-  <font color="#FF8C00">DwJ718</font>
+  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=32&duration=3000&pause=1000&color=F7C94C&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+DwJ718" alt="Typing SVG" />
 </h1>
 
 <p align="center">
